@@ -9,7 +9,7 @@ The goal of this project is to replace large multidimensional interpolation tabl
 ## Repository Structure
 
 ```
-├── train.py                 # Full training pipeline including feature engineering and evaluation
+├── train.py                # Full training pipeline including feature engineering and evaluation
 ├── sample_prediction.py    # Script to test saved model on unseen data and show sample prediction
 ├── model_ResFNN.py         # Residual feedforward neural network architecture
 ├── utils.py                # Visualization and metric helper utilities
